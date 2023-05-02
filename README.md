@@ -15,32 +15,9 @@ Before you start working on the project, make sure you have the following:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/user/contextual_languagemodel_assistant.git
+git clone https://github.com/user/knowlesge-agents.git
 ```
 
-2. Navigate to the project folder:
-
-```
-cd contextual_languagemodel_assistant
-```
-
-3. Install the required packages:
-
-```
-pip install -r requirements.txt
-```
-
-4. Set up the required credentials in `credentials.py`:
-
-```python
-API_KEY = "your_api_key_here"
-```
-
-5. Run the main script:
-
-```
-python main.py
-```
 
 ## 📦 Project Structure
 
