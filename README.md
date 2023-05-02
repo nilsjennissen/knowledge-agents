@@ -1,6 +1,6 @@
 # 🧭 Project Overview
 
-Welcome to the Contextual Language Model Assistant project! In this project, we focus on adding contextual knowledge and data with txt, csv, and other document formats to Large Language Models like OpenAI's GPT-4. We leverage the LangChain library and deliver text and voice assistants for local data sources, making it easier for users to interact with and extract insights from their data.
+Welcome to the knowledge-agents project! In this project, we focus on adding contextual knowledge and data with txt, csv, and other document formats to Large Language Models like OpenAI's GPT-4. We leverage the LangChain library and deliver text and voice assistants for local data sources, making it easier for users to interact with and extract insights from their data. Inspirations for this repository are the LangChain library documentation and the LangChain Cookbook (see References).
 
 ## 🚧 Prerequisites
 
@@ -44,9 +44,10 @@ The project provides a sample `directory.csv` file as a starting point. However,
 
 ## 📚 References
 
-Some helpful resources to understand and work with this project:
+Most helpful resources and inspirations for this project:
 
 - [LangChain library](https://python.langchain.com/en/latest/index.html)
+- [LangChain Cookbook by gkamradt ](https://github.com/gkamradt)
 
 ## 🏆 Conclusion
 
