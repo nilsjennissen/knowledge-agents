@@ -15,7 +15,7 @@ Before you start working on the project, make sure you have the following:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/user/knowlesge-agents.git
+git clone https://github.com/user/knowledge-agents.git
 ```
 
 
