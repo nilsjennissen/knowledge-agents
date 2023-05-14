@@ -29,10 +29,10 @@ Here's a brief overview of the project:
 ├── data/                                   # Data folder
 │   └── directory.csv                       # Sample data file of a repository
 ├── dir_csv.py                              # Create a csv file from a directory
-├── main.py
+├── glob_csv.py
 ├── models/
 ├── notebooks/                              # Jupyter notebooks
-│   ├── data_agents.ipynb                   # Data agents notebook
+│   ├── simple_csv_loader.ipynb                   # Data agents notebook
 │   └── knowledge_agents.ipynb              # Knowledge agents notebook
 ├── README.md                               
 └── requirements.txt
